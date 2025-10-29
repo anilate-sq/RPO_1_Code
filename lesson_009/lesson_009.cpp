@@ -52,4 +52,5 @@ int main()
 
     int n = 5;
     cout << numb(n);
+    int b = 21;
 }
