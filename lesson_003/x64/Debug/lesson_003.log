@@ -1,0 +1,4 @@
+﻿  lesson_003.cpp
+C:\RPO-1_C++\RPO_1\lesson_003\lesson_003.cpp(10,18): warning C4305: инициализация: усечение из "int" в "bool"
+C:\RPO-1_C++\RPO_1\lesson_003\lesson_003.cpp(12,30): warning C4804: >: небезопасное использование типа "bool" в операции
+  lesson_003.vcxproj -> C:\RPO-1_C++\RPO_1\x64\Debug\lesson_003.exe

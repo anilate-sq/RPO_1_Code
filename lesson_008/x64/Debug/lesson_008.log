@@ -1,0 +1,3 @@
+﻿  lesson_008.cpp
+C:\Users\Андрей\Desktop\RPO_1\lesson_008\lesson_008.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lesson_008.vcxproj -> C:\Users\Андрей\Desktop\RPO_1\x64\Debug\lesson_008.exe
