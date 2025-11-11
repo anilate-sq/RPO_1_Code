@@ -1,1 +1,5 @@
-﻿
+﻿  lesson_001.cpp
+C:\RPO_1_Code\lesson_001\lesson_001.cpp(14,24): warning C4305: инициализация: усечение из "__int64" в "short"
+C:\RPO_1_Code\lesson_001\lesson_001.cpp(14,26): warning C4309: инициализация: усечение константного значения
+C:\RPO_1_Code\lesson_001\lesson_001.cpp(18,13): warning C4305: инициализация: усечение из "double" в "float"
+  lesson_001.vcxproj -> C:\RPO_1_Code\x64\Debug\lesson_001.exe
